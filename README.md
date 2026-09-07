@@ -47,5 +47,9 @@ own empty database.
 
 ## Automatic updates
 
-Not yet. Build 032 adds them, signed and verified. Until then a new version
-means downloading a new installer from this page.
+Not yet. This page previously said Build 032 would add them; Build 032 is
+published and does not. The reason is unchanged and is not a matter of
+effort: an updater has to verify a signature, and the private key that
+produces those signatures needs somewhere to live that is not a build task.
+Until that is settled, a new version means downloading a new installer from
+this page.
